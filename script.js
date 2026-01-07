@@ -134,4 +134,4 @@ window.addEventListener('scroll', () => {
 // Console message for recruiters
 console.log('%cHey there! =K', 'font-size: 20px; font-weight: bold; color: #B31B1B;');
 console.log('%cThanks for checking out my portfolio! Feel free to reach out if you\'d like to connect.', 'font-size: 14px; color: #333;');
-console.log('%c- Danny McCance', 'font-size: 14px; font-style: italic; color: #666;');
+console.log('%c- William Dong', 'font-size: 14px; font-style: italic; color: #666;');
